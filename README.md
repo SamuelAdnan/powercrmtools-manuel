@@ -22,4 +22,4 @@ OAUTH/ClientSecret Crm connection string<br />
     <li><a href="https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/RegisterImagePipeline.png?raw=true" target="_blank"><image width="270"  src="https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/5.png?raw=true" /></a><</li>
 </ul>
 # Issues
-For issues ([https://github.com/yesadahmed/CrmFetchXmlToJson/issues](https://github.com/SamuelAdnan/powercrmtools-manuel/issues)).
+For issues (https://github.com/SamuelAdnan/powercrmtools-manuel/issues).
