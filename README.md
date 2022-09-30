@@ -14,4 +14,11 @@ OAUTH/ClientSecret Crm connection string<br />
 
 # Tasks
 
+<ul>
+  <li><a href="https://www.WordPress.com" target="_blank"><image width="440"  src="https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/1.png?raw=true" /></a></li>
+  <li><image width="640"  src="https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/2.png?raw=true" /></li>
+  <li><image width="620"  src="https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/3.png?raw=true" /></li>
+    <li><image width="440"  src="https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/4.png?raw=true" /></li>
+    <li><image width="270"  src="https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/5.png?raw=true" /></li>
+</ul>
 
