@@ -1,5 +1,5 @@
 # Power Crm Tools
-A devops pipeline utility for microsoft customer engagement(dataverse) to register:
+A devops pipeline utility for autoamting the regisration of follwings into the microsoft customer engagement(dataverse):
 <ul><li>Service end poionts</li><li>WebHooks</li><li>Plugin Steps</li><li>Plugin Images</li></ul>
 
 More tasks in future.
