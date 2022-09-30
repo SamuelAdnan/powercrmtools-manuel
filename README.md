@@ -3,11 +3,10 @@ A devops pipeline utility for microsoft customer engagement(dataverse) to regist
 
 # Compatibility
 Dynamics365 9.0 (on-premises (azure aware)) <br />
-Customer engagement online versions<br /
-
+Customer engagement online versions
 
 # Parameters
-OAUTH/ClientSecret Crm connection string<br />
+OAUTH/ClientSecret Crm connection<br />
 
 # Video
 
