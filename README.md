@@ -2,6 +2,8 @@
 A devops pipeline utility for microsoft customer engagement(dataverse) to register:
 <ul><li>Service end poionts</li><li>WebHooks</li><li>Plugin Steps</li><li>Plugin Images</li></ul>
 
+More tasks in future.
+
 # Compatibility
 Dynamics365 9.0 (on-premises (azure aware)) <br />
 Customer engagement online versions
