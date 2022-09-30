@@ -1,12 +1,21 @@
-# PowerCrmTools-Dynamic365
+# CrmFetchXmlToCSVOrJson
+A devops pipeline utility for microsoft customer engagement(dataverse) to register webhooks, service endpoints and related steps and images into Dynamic365/Customer engagement.
 
-##Overview
-Power Crm Tools is a collection of tools that helps in autoamating the registration of webhook and service endpoint in dyancmi365 customer engagement.
+# Compatibility
+Dynamics365 9.0 (on-premises (azure aware)) <br />
+Customer engagement online versions<br /
 
-# Crm version
-Dynamics365 9 <br />
-Customer engagement online versions<br />
 
-##Tasks
-WebHook Registration
-Service endpoint registration
+# Parameters
+OAUTH/ClientSecret Crm connection string<br />
+
+# Video
+
+
+# Tasks
+
+
+
+
+
+# Issues
