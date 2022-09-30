@@ -1,5 +1,6 @@
 # Power Crm Tools
-A devops pipeline utility for microsoft customer engagement(dataverse) to register webhooks, service endpoints and related steps and images into Dynamic365/Customer engagement.
+A devops pipeline utility for microsoft customer engagement(dataverse) to register:
+<ul><li>Service end poionts</li><li>WebHooks</li><li>Plugin Steps</li><li>Plugin Images</li></ul>
 
 # Compatibility
 Dynamics365 9.0 (on-premises (azure aware)) <br />
