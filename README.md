@@ -19,7 +19,7 @@ OAUTH/ClientSecret Crm connection<br />
   <li><a href="https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/RegisterWebHook.png?raw=true" target="_blank"><image width="620"  src="https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/3.png?raw=true" /></a></li>
     <li><a href="https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/RegisterStepPipeline.png?raw=true" target="_blank"><image width="440"  src="https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/4.png?raw=true" /></a><</li>
     <li><a href="https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/RegisterImagePipeline.png?raw=true" target="_blank"><image width="270"  src="https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/5.png?raw=true" /></a><</li>
-</ul>
-<br/>
+</ul><br/>
+
 # Issues
 For issues (https://github.com/SamuelAdnan/powercrmtools-manuel/issues).
