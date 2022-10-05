@@ -17,8 +17,8 @@ OAUTH/ClientSecret Crm connection<br />
 # Tasks
 
 ### Regular (input based)
-Power Crm Tools Installer (A task to configure dependencies for Power Crm Tools)
-Power Crm Tools Installer (A task to configure dependencies for Power Crm Tools)
+Power Crm Tools Installer (A task to configure dependencies for Power Crm Tools)<br />
+[Power Crm Register WebHook](https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/RegisterWebHook.png?raw=true)Register webhook with output variables, $(powercrmwebhookName) and $(powercrmwebhookId)
 ### Interactive-WebAPI (selection based)
 [Google](https://www.google.com)
 <table style="width: 100%;border-collapse: collapse;">
