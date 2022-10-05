@@ -16,13 +16,55 @@ OAUTH/ClientSecret Crm connection<br />
 
 # Tasks
 
-<ul>
-  <li><image width="440"  src="https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/1.png?raw=true" /></li>
-  <li><a href="https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/RegisterServiceBusPipeline.png?raw=true" target="_blank"><image width="640"  src="https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/2.png?raw=true" /></a></li>
-  <li><a href="https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/RegisterWebHook.png?raw=true" target="_blank"><image width="620"  src="https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/3.png?raw=true" /></a></li>
-    <li><a href="https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/RegisterStepPipeline.png?raw=true" target="_blank"><image width="440"  src="https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/4.png?raw=true" /></a></li>
-    <li><a href="https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/RegisterImagePipeline.png?raw=true" target="_blank"><image width="270"  src="https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/5.png?raw=true" /></a></li>
-</ul><br/>
+
+<table style="width: 100%;border-collapse: collapse;">
+  <tr style="border: 1px solid #dddddd; text-align: left;padding: 8px;">
+    <th style="border: 1px solid #dddddd; text-align: left;padding: 8px;">Regular (input based)</th>
+    <th style="border: 1px solid #dddddd; text-align: left;padding: 8px;">Interactive-WebAPI (selection based)</th>
+
+  </tr>
+  <tr style="border: 1px solid #dddddd; text-align: left;">
+    <td style="border: 1px solid #dddddd; text-align: left;padding: 5px;">1. Power Crm Tools Installer <p style="font-style:italic;">A task to configure dependencies for Power Crm Tools.)</p></td>
+        <td style="border: 1px solid #dddddd; text-align: left;padding: 5px;">[Power Crm Tools WebAPI Installer](https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/webapiinstaller.png?raw=true)<p style="font-style:italic;">An interactive UI task to register step to webhook or service endpoint.</p></td>
+  
+  </tr>
+  
+  <tr style="border: 1px solid #dddddd; text-align: left;padding: 5px;">
+    <td style="border: 1px solid #dddddd; text-align: left;padding: 5px;">[Power Crm Register WebHook](https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/RegisterWebHook.png?raw=true)<p style="font-style:italic;"> Register webhook with output variables, $(powercrmwebhookName) and $(powercrmwebhookId)</p></td>
+        <td style="border: 1px solid #dddddd; text-align: left;padding: 5px;">[Power Crm WebAPI Register Step](https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/webapisteps.png?raw=true)<p style="font-style:italic;"> An interactive UI task to register step to webhook or service endpoint with output variable, $(powercrmstepId)..
+</p></td>
+    
+  </tr>
+  <tr  style="border: 1px solid #dddddd; text-align: left;padding: 5px;">
+    <td style="border: 1px solid #dddddd; text-align: left;padding: 5px;">[Power Crm Service Endpoint Registration](https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/RegisterServiceBusPipeline.png?raw=true)<p style="font-style:italic;">Register service endpoint with output variables $(powercrmendpointId) and $(powercrmendpointName).
+ </p></td>
+<td></td>
+    
+  </tr>
+  
+    </tr>
+  <tr  style="border: 1px solid #dddddd; text-align: left;;">
+  <td style="border: 1px solid #dddddd; text-align: left;;">[Power Crm Register Step](https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/RegisterServiceBusPipeline.png?raw=true)<p style="font-style:italic;"> Register plugin step with output variable, $(powercrmstepId).
+</p></td>
+ <td></td>
+   </tr>
+  
+  
+  <tr  style="border: 1px solid #dddddd; text-align: left;padding: 5px;">
+   <td style="border: 1px solid #dddddd; text-align: left;padding: 5px;">[Power Crm Register Image](https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/RegisterImagePipeline.png?raw=true)<p style="font-style:italic;">Register crm image. $(powercrmendpointName).
+ </p></td>
+ <td></td>
+  
+</table><br/>
 
 # Issues
 For issues (https://github.com/SamuelAdnan/powercrmtools-manuel/issues).
+
+
+# LinkedIn
+[Linkedin](https://www.linkedin.com/in/adnan-samuel-16659418/)
+
+
+# EULA
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
