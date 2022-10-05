@@ -6,7 +6,6 @@ There is regular way (input based) of using the tasks but there are also an inte
 The interactive way (you can select existing webhooks/service endpoints etc.) is totally optional but can very help full <br />
  to look up the register webhooks or endpoints, for example if regualr step or image registration fails due to bad input <br />you can use the interactive way to select step/image from webhook or service endpoints.<br />
 Indeed the interactive way requires a bit more parameters but provides more flexibility in terms of usability.
-[more detail images](https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/README.md)<br />
 <i>More related tasks coming as well.</i>
 
 # Compatibility
