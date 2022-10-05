@@ -2,9 +2,9 @@
 A devops pipeline utility for microsoft customer engagement(dataverse) to automate the regisration of:
 <ul><li>Service endpoints</li><li>WebHooks</li><li>Plugin Steps</li><li>Plugin Images</li></ul>
 
-There is regular way (input based) of using the tasks but there are also an interactive way to register plugin <br />
-steps. The interactive way (you can select existing webhooks/service endpoints etc.) is totally optional but can<br />
-help very full to look up the register webhooks or endpoints, for example if regualr step or image registration fails due to bad input you can use the interactive way to select step/image from webhook or service endpoints.<br />
+There is regular way (input based) of using the tasks but there are also an interactive way to register plugin steps. <br />
+The interactive way (you can select existing webhooks/service endpoints etc.) is totally optional but can very help full <br />
+ to look up the register webhooks or endpoints, for example if regualr step or image registration fails due to bad input <br />you can use the interactive way to select step/image from webhook or service endpoints.<br />
 Indeed the interactive way requires a bit more parameters but provides more flexibility in terms of usability.
 [more detail images](https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/README.md)<br />
 <i>More related tasks coming as well.</i>
