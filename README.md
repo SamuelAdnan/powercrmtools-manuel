@@ -25,9 +25,9 @@ Register service endpoint with output variables $(powercrmendpointId) and $(powe
 [Power Crm Register Image](https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/RegisterImagePipeline.png?raw=true). Register crm image to plugin, webhook or image.<br />
 
 ### Interactive-WebAPI (selection based)
-[Power Crm Tools WebAPI Installer](#https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/webapiinstaller.png?raw=true)<p style="font-style:italic;">An interactive UI task to register step to webhook or service endpoint.<br />
-[Power Crm Tools WebAPI Register Step](#https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/webapisteps.png?raw=true). An interactive UI task to register step with output variable $(powercrmstepId) .<br />
-[Power Crm Tools WebAPI Register Image](#https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/webapiimage.png?raw=true). An interactive UI task to register image to plugin,webhook or service endpoint.<br />  
+[Power Crm Tools WebAPI Installer](https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/webapiinstaller.png?raw=true)<p style="font-style:italic;">An interactive UI task to register step to webhook or service endpoint.<br />
+[Power Crm Tools WebAPI Register Step](https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/webapisteps.png?raw=true). An interactive UI task to register step with output variable $(powercrmstepId) .<br />
+[Power Crm Tools WebAPI Register Image](https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/webapiimage.png?raw=true). An interactive UI task to register image to plugin,webhook or service endpoint.<br />  
 
 # Issues
 For issues (https://github.com/SamuelAdnan/powercrmtools-manuel/issues).
