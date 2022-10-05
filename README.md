@@ -16,7 +16,6 @@ OAUTH/ClientSecret Crm connection<br />
 
 # Tasks
 
-
 <table style="width: 100%;border-collapse: collapse;">
   <tr style="border: 1px solid #dddddd; text-align: left;padding: 8px;">
     <th style="border: 1px solid #dddddd; text-align: left;padding: 8px;">Regular (input based)</th>
@@ -55,7 +54,7 @@ OAUTH/ClientSecret Crm connection<br />
  </p></td>
  <td></td>
   
-</table><br/>
+</table>
 
 # Issues
 For issues (https://github.com/SamuelAdnan/powercrmtools-manuel/issues).
