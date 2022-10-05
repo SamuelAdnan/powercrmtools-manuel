@@ -15,6 +15,9 @@ OAUTH/ClientSecret Crm connection<br />
 
 
 # Tasks
+
+## Regular (input based)
+## Interactive-WebAPI (selection based)
 [Google](https://www.google.com)
 <table style="width: 100%;border-collapse: collapse;">
   <tr style="border: 1px solid #dddddd; text-align: left;padding: 8px;">
