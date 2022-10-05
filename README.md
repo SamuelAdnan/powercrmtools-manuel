@@ -17,7 +17,7 @@ OAUTH/ClientSecret Crm connection<br />
 # Tasks
 <table style="width: 100%;border-collapse: collapse;">
   <tr style="border: 1px solid #dddddd; text-align: left;padding: 8px;">
-    <th style="border: 1px solid #dddddd; text-align: left;padding: 8px;">Regular (input based)</th>
+    <th style="border: 1px solid #dddddd; text-align: left;padding: 8px;">Regular (input based)[Google](https://www.google.com)</th>
     <th style="border: 1px solid #dddddd; text-align: left;padding: 8px;">Interactive-WebAPI (selection based)</th>
 
   </tr>
