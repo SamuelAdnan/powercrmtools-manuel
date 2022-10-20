@@ -20,7 +20,28 @@ see videos more full detail.
 
 # Video
 
+[![SC2 Video](https://raw.githubusercontent.com/yesadahmed/PowerAutomateManagerDocs/main/readme/bestvideo.png)](https://youtu.be/kDt3lm388UY)
 
+start : 00:00
+about extension : 00:18
+about extensionused for: 00:24
+purpose: 00:42
+all tasks explanied: 00:01:33
+regular pipeline start: 00:04:41
+regular tasks- pipeline variables: 00:04:53
+webhook registration: 00:06:26
+crm tip attributes: 00:09:28
+service endpoint registration: 00:10:57
+crm tip images: 00:13:36
+info interactive tasks: 00:14:44
+interactive pipeline start: 00:15:10
+interactive tasks - service connection:00:15:44
+interactive tasks - pat token :00:17:13
+interactive tasks - pipeline variables: 00:17:58
+demo interactive pipeline - tasks: 00:0019:15
+demo crm webhook (azure function): 00:22:51
+demo crm service endpoint (bus - queue): 00:24:38
+contact info: 00:26:58
 # Tasks
 
 ### Regular (input based)
