@@ -20,7 +20,7 @@ see videos more full detail.
 
 # Video
 
-[![SC2 Video](https://raw.githubusercontent.com/yesadahmed/PowerAutomateManagerDocs/main/readme/bestvideo.png)](https://youtu.be/kDt3lm388UY)
+[![SC2 Video](https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/videolinkfile.png?raw=true)](https://youtu.be/kDt3lm388UY)
 
 start : 00:00
 about extension : 00:18
