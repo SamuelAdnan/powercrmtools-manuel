@@ -18,30 +18,6 @@ Both Power Crm Register WebHook and Service Endpoint, provides output variables 
 Interactive tasks, PAT and Service connection name.<br />
 see videos more full detail.
 
-# Video
-
-[![SC2 Video](https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/videolinkfile2.png?raw=true)](https://youtu.be/kDt3lm388UY)
-
-start : 00:00
-about extension : 00:18
-about extensionused for: 00:24
-purpose: 00:42
-all tasks explanied: 00:01:33
-regular pipeline start: 00:04:41
-regular tasks- pipeline variables: 00:04:53
-webhook registration: 00:06:26
-crm tip attributes: 00:09:28
-service endpoint registration: 00:10:57
-crm tip images: 00:13:36
-info interactive tasks: 00:14:44
-interactive pipeline start: 00:15:10
-interactive tasks - service connection:00:15:44
-interactive tasks - pat token :00:17:13
-interactive tasks - pipeline variables: 00:17:58
-demo interactive pipeline - tasks: 00:0019:15
-demo crm webhook (azure function): 00:22:51
-demo crm service endpoint (bus - queue): 00:24:38
-contact info: 00:26:58
 # Tasks
 
 ### Regular (input based)
@@ -56,6 +32,32 @@ Register service endpoint with output variables $(powercrmendpointId) and $(powe
 [Power Crm Tools WebAPI Installer](https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/webapiinstaller.png?raw=true). An interactive UI task to register step to webhook or service endpoint.<br />
 [Power Crm Tools WebAPI Register Step](https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/webapisteps.png?raw=true). An interactive UI task to register step with output variable $(powercrmstepId) .<br />
 [Power Crm Tools WebAPI Register Image](https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/webapiimage.png?raw=true). An interactive UI task to register image to plugin,webhook or service endpoint.<br />  
+
+
+# Video
+
+[![SC2 Video](https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/videolinkfile2.png?raw=true)](https://youtu.be/kDt3lm388UY)
+
+start : 00:00<br />
+about extension : 00:18<br />
+about extensionused for: 00:24<br />
+purpose: 00:42<br />
+all tasks explanied: 00:01:33<br />
+regular pipeline start: 00:04:41<br />
+regular tasks- pipeline variables: 00:04:53<br />
+webhook registration: 00:06:26<br />
+crm tip attributes: 00:09:28<br />
+service endpoint registration: 00:10:57<br />
+crm tip images: 00:13:36<br />
+info interactive tasks: 00:14:44<br />
+interactive pipeline start: 00:15:10<br />
+interactive tasks - service connection:00:15:44<br />
+interactive tasks - pat token :00:17:13<br />
+interactive tasks - pipeline variables: 00:17:58<br />
+demo interactive pipeline - tasks: 00:0019:15<br />
+demo crm webhook (azure function): 00:22:51<br />
+demo crm service endpoint (bus - queue): 00:24:38<br />
+contact info: 00:26:58<br />
 
 # Issues
 For issues (https://github.com/SamuelAdnan/powercrmtools-manuel/issues).
